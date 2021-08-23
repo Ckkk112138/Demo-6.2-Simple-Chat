@@ -2,6 +2,6 @@
 This is a simple console based chat room by using Telnet protocol.
 
 Reference:
-MUD GAME PROGRAMMING  
-By Ron Penton 
-2003
+// MUD Programming
+// Ron Penton
+// (C)2003
